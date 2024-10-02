@@ -1,0 +1,27 @@
+cd C:\Users\Beta_Tester\Downloads\
+
+----- 로컬 → Git -----
+git add .
+git commit -m "Updated"
+git push -u origin main
+---------------------------
+
+-------- 생성 --------
+git init
+git remote add origin (저장소)
+---------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
